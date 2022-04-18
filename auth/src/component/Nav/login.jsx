@@ -6,7 +6,7 @@ export default function LoginButton(){
 
     return(
         <div>
-            <ButtonLog onClick={()=>loginWithRedirect()}>Login...</ButtonLog>
+            <ButtonLog onClick={()=>loginWithRedirect()}>Login</ButtonLog>
         </div>
         )
 }
